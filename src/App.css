@@ -1,0 +1,8 @@
+*{
+  margin: 00;
+  box-sizing: border-box;
+}
+#main{
+  display: flex;
+  flex-direction: row;
+}

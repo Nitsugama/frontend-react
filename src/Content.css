@@ -1,0 +1,10 @@
+.content{
+    background-image: url(https://pbs.twimg.com/media/F3mCCFrWUAAaa0Z?format=jpg&name=4096x4096);
+    background-size:cover;
+    background-position: right;
+    margin: 20px 20px 20px 10px;
+    width: 100%;
+}
+.jhin{
+    color: white;
+}
